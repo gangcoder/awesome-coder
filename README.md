@@ -5,8 +5,9 @@ awesome-coder, 是我将平时工作与学习的各种编程知识的记录。�
 ## 内容导航
 
 - 架构
+  - [分布式事务](./distributed/distributedtransaction/distributedtransaction.md) >>> [点击观看视频讲解](https://www.bilibili.com/video/av36614463/) 视频介绍什么是分布式事务和实现方案
 - 网络
-    - [根域名的知识](./network/root-domain/根域名的知识.md) 域名的管理机构和托管方式，想知道域名注册费交哪里去了吗
+    - [根域名的知识](./network/root-domain/根域名的知识.md) >>> [点击观看视频讲解](https://www.bilibili.com/video/av37574560/) 域名的管理机构和托管方式，想知道域名注册费交哪里去了吗
 
 
 这些内容工作中不断积累的结果，一定程度也体现了一名服务端开发者需要掌握的知识范围和技术能力。希望这些内容能给大家带来帮助。如果有疑问和建议，欢迎提issue 。
