@@ -9,6 +9,7 @@ awesome-coder, 是我将平时工作与学习的各种编程知识的记录。�
 - 网络
     - [根域名的知识](./network/root-domain/根域名的知识.md) >>> [点击观看视频讲解](https://www.bilibili.com/video/av37574560/) 域名的管理机构和托管方式，想知道域名注册费交哪里去了吗
     - [一次请求涉及的网络协议](./network/network-protocol/一次请求涉及的网络协议.md) >>> [点击观看视频讲解](https://www.bilibili.com/video/av47725391) 视频讲解打开一个网页时，请求从浏览器出发，到达网站服务器，再被服务端处理，所涉及的网络协议
+    - [好刚21期 | 10分钟详解DNS 域名解析协议](./network/dns/DNS域名解析协议.md) >>> [点击观看视频讲解](https://www.bilibili.com/video/av56052964) 视频讲解DNS 域名解析协议的架构设计，解析实现以及基于DNS 实现负载均衡和就近访问
 
 - Linux
   - [理解Linux 系统负载](./linux/loadaverage/理解Linux系统负载.md) [>>>点击观看视频讲解](https://www.bilibili.com/video/av50493171/) 当我们电脑很卡的时候，系统的负载肯定也很高，那怎么衡量Linux 系统负载，又应该怎么理解系统负载？
